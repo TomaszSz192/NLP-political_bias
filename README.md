@@ -26,9 +26,9 @@ TF‑IDF (unigramy + bigramy).
 
 Modele ML
 
-Logistic Regression
-SVM
-Random Forest
+Logistic Regression,
+SVM,
+Random Forest,
 Naive Bayes
 
 Ewaluacja
